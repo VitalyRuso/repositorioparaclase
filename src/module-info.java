@@ -4,6 +4,5 @@
 /**
  * 
  */
-module Interfaces {
-	requires java.desktop;
+module Programacion {
 }
