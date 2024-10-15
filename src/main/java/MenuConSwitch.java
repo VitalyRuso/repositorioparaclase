@@ -77,9 +77,9 @@ public class MenuConSwitch {
 				System.out.println("Opción no válida. Intenta de nuevo.");
 			}
 
-			System.out.println(); /
+			System.out.println();
 
-		} while (opcion != 5); 
+		} while (opcion != 5);
 
 		scanner.close();
 	}
