@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ClasificacionSegúnPuntuacion {
 	public static void main(String[] args) {
 
-		System.out.println("Introduzca un numero: ");
+		System.out.print("Introduzca un numero: ");
 
 		Scanner leer = new Scanner(System.in);
 		int promedio = leer.nextInt();
